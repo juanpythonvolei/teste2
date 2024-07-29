@@ -1,5 +1,5 @@
 face_recognition
-cmake==3.22.2
+cmake==3.22.2w
 dlib==19.23.1
 
 
