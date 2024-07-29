@@ -1,5 +1,6 @@
 face_recognition
-cmake==3.30.1
-dlib
+cmake==3.25.2
+dlib==19.24.2
+
 
 streamlit
