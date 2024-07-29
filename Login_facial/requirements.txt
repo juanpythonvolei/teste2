@@ -1,5 +1,5 @@
 face_recognition
 Pillow
 dlib
-cmake == 3.30.1
+
 streamlit
