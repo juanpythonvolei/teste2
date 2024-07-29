@@ -1,4 +1,4 @@
 face_recognition
 
-pip install --upgrade pip
+
 streamlit
